@@ -22,7 +22,7 @@ function MyCodeEditor() {
   };
 
   const handleButtonClick = () => {
-    window.open('https://github.com/your-repo-link', '_blank');
+    window.open('https://github.com/The-Hawkeye/TextEditorWithSyntaxHighlighting', '_blank');
   };
 
   const handleScroll = () => {
